@@ -6,7 +6,7 @@ export default function Home() {
       <div className="mainsection">
         <header className="">
           <h1 className="text-white text-center text-7xl">
-            This is 1st git update
+            This is 1st Krishno
           </h1>
         </header>
       </div>
