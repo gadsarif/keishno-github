@@ -5,9 +5,7 @@ export default function Home() {
     <div className="flex min-h-screen text-center justify-center m-auto bg-black items-center">
       <div className="mainsection">
         <header className="">
-          <h1 className="text-white text-center text-7xl">
-            This is 2st Krishno
-          </h1>
+          <h1 className="text-white text-center text-7xl">This is 3st arif</h1>
         </header>
       </div>
     </div>
