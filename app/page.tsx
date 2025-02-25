@@ -6,6 +6,11 @@ export default function Home() {
       <div className="mainsection">
         <header className="">
           <h1 className="text-white text-center text-7xl">This is 1st</h1>
+          <h1 className="text-white text-center text-7xl">This is me</h1>
+          <h1 className="text-white text-center text-7xl">This is you</h1>
+          <h1 className="text-white text-center text-7xl">
+            This is your design
+          </h1>
         </header>
       </div>
     </div>
