@@ -7,10 +7,8 @@ export default function Home() {
         <header className="">
           <h1 className="text-white text-center text-7xl">This is 1st</h1>
           <h1 className="text-white text-center text-7xl">This is me</h1>
-          <h1 className="text-white text-center text-7xl">This is you</h1>
-          <h1 className="text-white text-center text-7xl">
-            This is your design
-          </h1>
+          <h1 className="text-green text-center text-7xl">This is you</h1>
+          <h1 className="text-red text-center text-7xl">This is your design</h1>
         </header>
       </div>
     </div>
